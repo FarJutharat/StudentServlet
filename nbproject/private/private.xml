@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/web/add.jsp</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/web/delete.jsp</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/web/show.jsp</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/src/java/servlet/StudentServlet.java</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/web/index.html</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/web/edit.jsp</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/src/java/servlet/AddStudent.java</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/src/java/servlet/EditStudent.java</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/src/java/servlet/StudentTable.java</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/src/java/servlet/Student.java</file>
+            <file>file:/Users/macintosh/NetBeansProjects/StudentServlet/src/java/servlet/DeleteStudent.java</file>
+        </group>
+    </open-files>
+</project-private>
